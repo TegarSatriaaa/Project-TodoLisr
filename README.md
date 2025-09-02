@@ -18,7 +18,7 @@ This project is designed with modern UI, smooth animations, and useful features 
 ---
 
 ## 🚀 Demo  
-You can try the live demo here: [Coming Soon - GitHub Pages Link]  
+You can try the live demo here: https://tegarsatriaaa.github.io/Project-TodoLisr/
 
 ---
 
